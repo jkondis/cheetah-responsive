@@ -229,7 +229,12 @@ body.ngm {
 					
 					div.article_title {
 					
-						text-align: center;	
+						text-align: center;
+						color: black;
+						text-transform:uppercase;
+						text-align:left;
+						margin:0;
+						
 						
 						span.published {
 							
@@ -241,9 +246,15 @@ body.ngm {
     
 					}
 					
-					h2.title, h3.title {
+					h2.title {
 					
 						font-family: "Chronicle Display 3r",Georgia,Times,"Times New Roman",serif;
+					
+					}
+
+					h3.title {
+					
+						font-family: pragmatica-web,"Helvetica Neue",Helvetica,Arial,"Nimbus Sans L",sans-serif;
 					
 					}
 					
